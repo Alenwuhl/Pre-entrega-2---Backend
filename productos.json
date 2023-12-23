@@ -1,0 +1,38 @@
+[
+	{
+		"code": "BRL",
+		"title": "Buzo rojo",
+		"price": "1800",
+		"category": "Buzos",
+		"stock": "90",
+		"description": "Buzo rojo - talle L",
+		"id": 1
+	},
+	{
+		"code": "RR",
+		"title": "Remera a rayas",
+		"price": "990",
+		"category": "Remeras",
+		"stock": "90",
+		"description": "Remera a rayas",
+		"id": 2
+	},
+	{
+		"code": "CCL",
+		"title": "Camisa a cuadros",
+		"price": "500",
+		"category": "Camisas",
+		"stock": "80",
+		"description": "Camisa a cuadros - talla L",
+		"id": 3
+	},
+	{
+		"code": "PJ",
+		"title": "Pantalon Jean",
+		"price": "2500",
+		"category": "Pantalones",
+		"stock": "70",
+		"description": "Pantalón Jean",
+		"id": 4
+	}
+]
